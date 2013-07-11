@@ -1,3 +1,4 @@
+require "redis"
 require "version"
 
 class RedisOnRails < String
