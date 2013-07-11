@@ -5,7 +5,7 @@ require 'redis-on-rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "redis-on-rails"
-  spec.version       = Redis::On::Rails::VERSION
+  spec.version       = RedisOnRails::VERSION
   spec.authors       = ["gdi2290"]
   spec.email         = ["rubygems@gdi2290.com"]
   spec.description   = %q{Simple Redis gem}
